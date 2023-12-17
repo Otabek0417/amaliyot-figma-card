@@ -29,8 +29,8 @@ function App() {
         <h4 className="mb-[26px] text-[16px] font-normal  text-white">
           Full access for less than $1 a day
         </h4>
-        <div className="bg-[#C0DF33] w-full max-w-[237px] text-center rounded-[5px]">
-          <button className="text-[16px] text-white py-[15px] font-bold ">
+        <div className="bg-[#C0DF33] w-full md:max-w-[237px] text-center rounded-[5px]">
+          <button className="text-[16px] text-white py-[15px] font-bold  ">
             Sign Up
           </button>
         </div>
